@@ -1,0 +1,6 @@
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 7\RESPONSI\ResponsiPemrograman4267\ResponsiPemrograman4267\bin\Debug\ResponsiPemrograman4267.exe.config
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 7\RESPONSI\ResponsiPemrograman4267\ResponsiPemrograman4267\bin\Debug\ResponsiPemrograman4267.exe
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 7\RESPONSI\ResponsiPemrograman4267\ResponsiPemrograman4267\bin\Debug\ResponsiPemrograman4267.pdb
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 7\RESPONSI\ResponsiPemrograman4267\ResponsiPemrograman4267\obj\Debug\ResponsiPemrograman4267.exe
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 7\RESPONSI\ResponsiPemrograman4267\ResponsiPemrograman4267\obj\Debug\ResponsiPemrograman4267.pdb
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 7\RESPONSI\ResponsiPemrograman4267\ResponsiPemrograman4267\obj\Debug\ResponsiPemrograman4267.csprojResolveAssemblyReference.cache
